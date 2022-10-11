@@ -10,7 +10,11 @@ RGB is a system of private & scalable client-validated smart contracts on Bitcoi
 
 ## Wallets
 - [MyCitadel](https://mycitadel.io/) - Multiplatform RGB-enabled wallet
-- [BitMask](https://bitmask.app/) - Browser extension for accessing decentralized applications on Bitcoin using the RGB protocol.
+- [BitMask](https://bitmask.app/) - Browser extension for accessing decentralized applications on Bitcoin using the RGB protocol
+- [Iris](https://github.com/RGB-Tools/iris-wallet-android) - Android wallet for managing RGB assets from issuance to spending and receiving
 
 ## Digital Art
 - [DIBA](https://diba.io/) - Marketplace on Bitcoin using RGB Smart Contract Protocol and Lightning Network to exchange Unique Digital Assets (UDAs), commonly referred to as NFTs
+
+## External teams and organizations working on RGB products
+- [RGB Tools](https://github.com/RGB-Tools) - Collections of tools to build and test applications using the RGB protocol for assets on Bitcoin
